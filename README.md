@@ -13,4 +13,5 @@ This repository is a demonstration on how to create a personal website for my CV
 - Make Contact Form functional
 
 # %% codecell
+%% codecell
 bin = print('hello world')
